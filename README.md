@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Mishra</h1>
 <h3 align="center">A Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay9309&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay9309" /> </p>
 
@@ -15,7 +14,7 @@
 <a href="https://linkedin.com/in/dhananjay-mishra-a4336119a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-mishra-a4336119a" height="30" width="40" /></a>
 <a href="https://instagram.com/dhananjay_m9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhananjay_m9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhananjaymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhananjaymishra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhananjaymishra93097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhananjaymishra93097" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhananjaymishra93097/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhananjaymishra93097/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
